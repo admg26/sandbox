@@ -2,4 +2,4 @@ numpy==1.16.*
 matplotlib==3.*
 scipy==1.2.*
 pygeode==1.3.*
-netcdf4==1.5*
+netcdf4==1.17.*
